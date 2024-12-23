@@ -1,3 +1,11 @@
-# Date Night Generator
+# React + Vite
 
-Not sure what to do for your date night? Let the date night generator choose the perfect activity for you and your significant other to enjoy! 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+https://www.color-hex.com/color-palette/116372
